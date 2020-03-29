@@ -11,4 +11,4 @@ end
 beyonce = Artist.new("Beyonce")
 crazy_in_love = Song.new("Crazy In Love")
 
-crazy_in_love.artist
+crazy_in_love.artist = beyonce
