@@ -9,4 +9,5 @@ class Artist
 end
 
 beyonce = Artist.new("Beyonce")
-crazy_in_love = Song.new("")
+crazy_in_love = Song.new("Crazy In Love")
+
